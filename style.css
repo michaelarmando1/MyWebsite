@@ -5,6 +5,10 @@
             .navbar {
                 background-color: #0E0F1C;
             }
+
+            main {
+                height: 80vh;
+            }
             
             h1 {
                 display: inline-flex;
@@ -13,6 +17,9 @@
 
             h3 {
                 display: flex;
+                font-size: 34px;
+                color: #0E0F1C;
+                align-items: center;
                 
             }
             
