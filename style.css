@@ -10,6 +10,11 @@
                 display: inline-flex;
                 color: #CCD1EC;
             }
+
+            h3 {
+                display: flex;
+                
+            }
             
             p {
                 margin-bottom: auto;
